@@ -32,7 +32,7 @@ A simple Web App to post messages
 >>>>>>> 0492901ec63cabbcef883e37e8e9f93fb4dd98c0
 
 ## Link
-http://gocart.s3-website.ap-south-1.amazonaws.com/
+http://messageapp.s3-website.ap-south-1.amazonaws.com/
 
 ## Steps to run on local system
   1.open package.json file in backend folder
